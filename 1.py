@@ -6,8 +6,7 @@ import json,sys,time
 #user:	User.Read.All、User.ReadWrite.All、Directory.Read.All、Directory.ReadWrite.All
 #mail:  Mail.Read、Mail.ReadWrite、MailboxSettings.Read、MailboxSettings.ReadWrite
 #注册后一定要再点代表xxx授予管理员同意,否则outlook api无法调用
-id=r'1b443f39-6408-46da-98e5-4b915ff80496'
-secret=r'Qh1UvHOHe6Y5k[vn]SO9g_v-k4IAPzB7'
+
 
 
 
